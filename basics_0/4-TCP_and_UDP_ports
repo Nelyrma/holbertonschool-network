@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
+#The command is used to display the listening ports
 netstat -a -p
 
-#The command is used to display the listening ports
 # -a: Displays all listening and non-listening sockets
 # -p: Shows the program or process associated with the socket.
 
